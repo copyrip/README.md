@@ -12,7 +12,19 @@ Repository for my master thesis @[erg](https://erg.be) due in september 2022.
 The body of work consists in severals shows[0] about various micro media history events. A subjective documentation of the tools needed to produce the lectures is written alongside their content.
 
 * /shows/
-* /shows/freeparty.free.fr
-* /shows/pankkake-suicide
+* /shows/freeparty.free.fr/
+* /shows/pankkake-suicide/
 * /tools/
-* /tools/youtube-dl
+* /tools/vlc/
+*
+
+## things to remember
+* [ ] french version
+* [ ] /vlc/
+* * [ ] write vlc atl.description
+* * [ ] select vlc images
+* * [ ] curate vlc links
+* * [ ]
+* [ ] /freeparty.free.fr/
+* * [ ] re-transcript alpha version
+* * [ ] 
