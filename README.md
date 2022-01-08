@@ -14,24 +14,40 @@ The body of work consists in severals shows[0] about various micro media history
 ## 💥table of contents
 
 * /shows/ - the core of my thesis
-* /shows/freeparty.free.fr/ - 🇪🇺 european ravers flash era on xavier niel's free.fr isp 🔊🧯
-* /shows/pankkake-suicide/ - 🇫🇷 french dev suicide funds alt-right capitol stormer 🤔🤮
+* /shows/freeparty.free.fr/ [🇪🇺european ravers flash era on xavier niel's free.fr isp 🔊🧯]
+* /shows/pankkake-suicide/ [🇫🇷french dev suicide funds alt-right capitol stormer 🤔🤮]
 * /tools/
-* /tools/vlc/
+* [/tools/vlc/](https://github.com/copyrip/README.md/tree/master/tools/vlc) [🚧the almighty french 🐓 versatile media player]
 
 ## 🗓️ calendar
+### tools research
+* 22-01-03 →Graph Commons
+* 22-01-04 →F-Droid
+* 22-01-05 →FIGlet
+* 22-01-06 →youtube-dl
+* 22-01-07 →vlc
+* 22-01-08 →github
+* 22-01-11 →aaron swarz (rss, markdown)
+* ...
+* 22-01-15 →wikipedia day 🎉
+* ...
+* 22-01-25 →mediawiki (magnus mankse day 🎉)
+
 
 ## 🧠 things to remember
 * [ ] french version
 * [ ] /vlc/
+* * [x] create folder
 * * [ ] write vlc atl.description
 * * [ ] select vlc images
 * * [ ] curate vlc links
 * * [ ] ...
 * [ ] /freeparty.free.fr/
+* * [ ] create folder
 * * [ ] re-transcript alpha version
 * * [ ] ... 
 * [ ] /pankkake-suicide/
+* * [ ] create folder
 * * [ ] upload suicide letter
 * * [ ] pre transcript
 * * [ ] setup and tools list
@@ -41,4 +57,4 @@ The body of work consists in severals shows[0] about various micro media history
 [create an anchor](#anchors-in-markdown)
 
 ## notes
-[O] The 'shows' are hybrid performances both similar as 'in-person' lectures and broadcasted online as a streaming video.
+[0] The 'shows' are hybrid performances both similar as 'in-person' lectures and broadcasted online as a streaming video.
