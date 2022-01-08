@@ -9,7 +9,7 @@
 
 Repository for my master thesis @[erg](https://erg.be) due in september 2022.
 
-The body of work consists in severals shows[*](###show.define) about various micro media history events. A subjective documentation of the tools needed to produce the lectures is written alongside their content.
+The body of work consists in severals shows[0] about various micro media history events. A subjective documentation of the tools needed to produce the lectures is written alongside their content.
 
 ## 💥table of contents
 
@@ -41,10 +41,4 @@ The body of work consists in severals shows[*](###show.define) about various mic
 [create an anchor](#anchors-in-markdown)
 
 ## notes
-
-(#define-show)
-
-The 'shows' are hybrid performances both similar as 'in-person' lectures and broadcasted online as a streaming video.
-
-### show.define
-The 'shows' are hybrid performances both similar as 'in-person' lectures and broadcasted online as a streaming video.
+[O] The 'shows' are hybrid performances both similar as 'in-person' lectures and broadcasted online as a streaming video.
