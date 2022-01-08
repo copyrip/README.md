@@ -41,7 +41,10 @@ The body of work consists in severals shows[*](###show.define) about various mic
 [create an anchor](#anchors-in-markdown)
 
 ## notes
+
 (#define-show)
+
 The 'shows' are hybrid performances both similar as 'in-person' lectures and broadcasted online as a streaming video.
+
 ###show.define
 The 'shows' are hybrid performances both similar as 'in-person' lectures and broadcasted online as a streaming video.
