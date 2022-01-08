@@ -20,24 +20,26 @@ The body of work consists in severals shows[0] about various micro media history
 * [/tools/vlc/](https://github.com/copyrip/README.md/tree/master/tools/vlc) [🚧the almighty french 🐓 versatile media player]
 
 ## 🗓️ calendar
-### show
-* 22-01/02-?? → Pankkake's Suicide
+### deadline
+* [ ] 22-07-?? → ⚠️ school diploma
+### shows
+* [ ] 22-01/02-?? → Pankkake's Suicide
+* [x] 21-05-07 → fReEpArTy.free.fr
 ### streaming work group meetings
-* 22-01-?? → #1 brainstorming, curation, organisation
+* [ ] 22-01-?? → #1 brainstorming, curation, organisation
 * [x] 21-12-20 → #0 presentation, greetings and such 
 ### tools research
-* 22-01-03 → Graph Commons
-* 22-01-04 → F-Droid
-* 22-01-05 → FIGlet
-* 22-01-06 → youtube-dl
-* 22-01-07 → vlc
-* 22-01-08 → github
-* 22-01-11 → aaron swarz (rss, markdown)
-* ...
-* 22-01-15 → wikipedia day 🎉
-* ...
-* 22-01-25 → mediawiki (magnus mankse day 🎉)
-
+* [ ] 22-01-03 → Graph Commons
+* [ ] 22-01-04 → F-Droid
+* [ ] 22-01-05 → FIGlet
+* [ ] 22-01-06 → youtube-dl
+* [ ] 22-01-07 → vlc
+* [ ] 22-01-08 → github
+* [ ] 22-01-11 → aaron swarz (rss, markdown)
+* [ ] ...
+* [ ] 22-01-15 → wikipedia day 🎉
+* [ ] ...
+* [ ] 22-01-25 → mediawiki (magnus mankse day 🎉)
 
 ## 🧠 things to remember
 * [ ] french version
