@@ -9,7 +9,7 @@
 
 Repository for my master thesis @[erg](https://erg.be) due in september 2022.
 
-The body of work consists in severals shows[0] about various micro media history events. A subjective documentation of the tools needed to produce the lectures is written alongside their content.
+This body of work consists in severals shows[0] about various micro media history events. A subjective documentation of the tools needed to produce the lectures is written alongside their content. And a foreword from the author.
 
 ## 💥table of contents
 
@@ -18,6 +18,8 @@ The body of work consists in severals shows[0] about various micro media history
 * /shows/pankkake-suicide/ [🇫🇷french dev suicide funds alt-right capitol stormer 🤔🤮]
 * /tools/
 * [/tools/vlc/](https://github.com/copyrip/README.md/tree/master/tools/vlc) [🚧the almighty french 🐓 versatile media player]
+* [/tools/git-github](https://github.com/copyrip/README.md/tree/master/tools/git-github) [seems pretty obvious...🪟]
+
 
 ## 🗓️ calendar
 ### deadline
@@ -61,4 +63,4 @@ The body of work consists in severals shows[0] about various micro media history
 * * [ ] ...
 
 ## notes
-[0] The 'shows' are hybrid performances both similar as 'in-person' lectures and broadcasted online as a streaming video.
+[0] The 'shows' are hybrid performances both similar as *in-person* lectures and broadcasted online as a streaming video.
