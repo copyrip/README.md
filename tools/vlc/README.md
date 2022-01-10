@@ -1,12 +1,25 @@
 VLC media player is an amazing french built free and open source software.
 
-The player is part of the french "Socle interministériel de logiciels libres" which roughly transcribes to Interministerial *Libre* Software Baselist. As much as I love lists, I'm not fond of governments. But I find it quite funny to imagine thoses boomer struggling with their CUPS printer lists.
+The player is part of the french "Socle interministériel de Logiciels Libres" which roughly transcribes to Interministerial *Libre* Software Baselist. As much as I love lists, I'm not fond of governments. But I find it quite funny to imagine thoses boomer struggling with their CUPS printer lists configuration
 
 Did you know you can buy VLC on ebay for 5$ ? I guess if someone suscribe to my [patreon](https://www.patreon.com/copyright_) I'll buy one and try it !
 
 I mentionned Big Buck Bunny earlier (see youtube-dl): turns out it's also used to display VLC Android client.
 
 You can find a lot of (digital) goodies on their website, as reminder of a time where customizing your desktop icons was a more common goal.
+
+The software can read from a MASSIVE amount of formats
+
+3GP, ASF, AVI, DVR-MS, FLV, Matroska (MKV), MIDI, QuickTime File Format, MP4, Ogg, OGM, WAV, MPEG-2 (ES, PS, TS, PVA, MP3), AIFF, Raw audio, Raw DV, MXF, VOB, RM, Blu-ray, DVD-Video, VCD, SVCD, CD Audio, DVB, HEIF, AVIF
+AAC, AC3, ALAC, AMR, DTS, DV Audio, XM, FLAC, It, MACE, MOD, Monkey's Audio, MP3, Opus, PLS, QCP, QDM2/QDMC, RealAudio, Speex, Screamtracker 3/S3M, TTA, Vorbis, WavPack, WMA (WMA 1/2, WMA 3 partially).
+Video4Linux (on Linux), DirectShow (on Windows), Desktop (screencast), Digital TV (DVB-C, DVB-S, DVB-T, DVB-S2, DVB-T2, ATSC, Clear QAM)
+FTP, HTTP, MMS, RSS/Atom, RTMP, RTP (unicast or multicast), RTSP, UDP, Sat-IP, Smooth Streaming
+Apple HLS, Flash RTMP, MPEG-DASH, MPEG Transport Stream, RTP/RTSP ISMA/3GPP PSS, Windows Media MMS
+Advanced SubStation Alpha, Closed Captions, DVB, DVD-Video, MPEG-4 Timed Text, MPL2, OGM, SubStation Alpha, SubRip, SVCD, Teletext, Text file, VobSub, WebVTT, TTML
+Cinepak, Dirac, DV, H.263, H.264/MPEG-4 AVC, H.265/MPEG HEVC, AV1, HuffYUV, Indeo 3, MJPEG, MPEG-1, MPEG-2, MPEG-4 Part 2, RealVideo 3&4, Sorenson, Theora, VC-1, VP5, VP6, VP8, VP9, DNxHD, ProRes and some WMV.
+MOD and TOD via USB.
+
+And btw, remember DVD regions ? Well as VLC can decode them all, the software might not be legal under the infamous Digital Millenial Copyright Act that's been enforcing the laughable "CAPITALISM DRIVES INNOVATION" mindset for more than 20 years. 
 
 
 
