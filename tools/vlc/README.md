@@ -10,7 +10,7 @@ You can find a lot of (digital) goodies on their website, as reminder of a time 
 
 
 
-== links ==
+## links
 * http://videolan.org
 * [https://fr.wikipedia.org/wiki/Socle_interminist%C3%A9riel_de_logiciels_libres]("Socle interministériel de Logiciels Libres", on the french Wikipedia)
 * ["VLC Media Player Latest 2022 SOFTWARE" on
@@ -18,5 +18,6 @@ You can find a lot of (digital) goodies on their website, as reminder of a time 
 * [A VLC promotion movie made by Adam Vian](https://images.videolan.org/images/vlc-player.mp4)
 * ["Big Buck Bunny", on wikipedia](https://en.wikipedia.org/wiki/Big_Buck_Bunny)
 
-== visuals ==
-* [![Alt text](https://img.youtube.com/vi/vVXGLPl3n7E/0.jpg)](https://www.youtube.com/watch?v=vVXGLPl3n7E)
+## visuals
+[![Alt text](https://img.youtube.com/vi/vVXGLPl3n7E/0.jpg)](https://www.youtube.com/watch?v=vVXGLPl3n7E)
+*VLC promotion movie by Adam Vian*
