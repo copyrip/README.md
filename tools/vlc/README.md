@@ -22,7 +22,7 @@ MOD and TOD via USB.
 And btw, remember DVD regions ? Well as VLC can decode them all, the software might not be legal under the infamous Digital Millenial Copyright Act that's been enforcing the laughable "CAPITALISM DRIVES INNOVATION" mindset for more than 20 years. 
 
 ## awards 🎖️
-I forgot to mention that Jean Baptiste Kempf was awarded with 
+I forgot to mention that in 2018, Jean Baptiste Kempf was awarded with the french Ordre du Merite membership. Was it a way for Macron's govenrment to emphasize on their Startup Nation motto ? If so: yes, i'd like to see many projects thrive like VLC 
 by the french government !
 
 ## insights 👀
