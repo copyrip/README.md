@@ -52,16 +52,16 @@ How did this exemplary open-source project began ? The main maintainer anwsers i
 
 
 ## visuals
-* 0. logo
-* 1. SILL
-* 2. Jb Kempf
-* 3. on ebay
-* 4. old school logo
-* 5. olg bg
-* 6. logo popcorn
-* 7. logo cristmas
-* 8. bg random
-* 9. VLC Skin 
+0. logo
+1. SILL
+2. Jb Kempf
+3. on ebay
+4. old school logo
+5. olg bg
+6. logo popcorn
+7. logo cristmas
+8. bg random
+9. VLC Skin 
 
 [![Alt text](https://img.youtube.com/vi/vVXGLPl3n7E/0.jpg)](https://www.youtube.com/watch?v=vVXGLPl3n7E)
 *VLC promotion movie by Adam Vian*
