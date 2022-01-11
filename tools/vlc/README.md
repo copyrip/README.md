@@ -21,6 +21,12 @@ MOD and TOD via USB.
 
 And btw, remember DVD regions ? Well as VLC can decode them all, the software might not be legal under the infamous Digital Millenial Copyright Act that's been enforcing the laughable "CAPITALISM DRIVES INNOVATION" mindset for more than 20 years. 
 
+## awards 🎖️
+I forgot to mention that Jean Baptiste Kempf was awarded with 
+by the french government !
+
+## insights 👀
+
 
 
 ## links
@@ -30,7 +36,20 @@ And btw, remember DVD regions ? Well as VLC can decode them all, the software mi
     ebay.com](https://web.archive.org/web/20220110113830/https://www.ebay.com/itm/275082518345)
 * [A VLC promotion movie made by Adam Vian](https://images.videolan.org/images/vlc-player.mp4)
 * ["Big Buck Bunny", on wikipedia](https://en.wikipedia.org/wiki/Big_Buck_Bunny)
+* ["IAmA VLC media player developer. AMA", on reddit (11 years ago !)](https://www.reddit.com/r/IAmA/comments/g6cqr/iama_vlc_media_player_developer_ama/)
+* ["[AMA] Je suis le président de VideoLAN et le développeur principal de VLC, AMA", on reddit](https://www.reddit.com/r/france/comments/736ghk/ama_je_suis_le_pr%C3%A9sident_de_videolan_et_le/) 
+
 
 ## visuals
+* 0.
+* 1.
+* 2.
+* 3.
+* 4.
+* 5.
+* 6.
+* 7.
+* 8.
+* 9.
 [![Alt text](https://img.youtube.com/vi/vVXGLPl3n7E/0.jpg)](https://www.youtube.com/watch?v=vVXGLPl3n7E)
 *VLC promotion movie by Adam Vian*
