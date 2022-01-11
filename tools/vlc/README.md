@@ -27,11 +27,22 @@ by the french government !
 
 ## insights 👀
 
+How did this exemplary open-source project began ? The main maintainer anwsers in an AMA thread on reddit (in french)
+> "En vrai, l'idée début en 1994/1995, quand les élèves de Centrale Paris veulent un nouveau réseau plus rapide pour jouer aux premiers Shoot'Em'Up. Mais l'école ne voit pas l'intérêt de payer pour ça, car pour faire du mail et du web à l'époque, le réseau TokenRing suffit.
+
+> Alors, ils vont voir des industriels, et notamment Bouygues, pour financer le nouveau réseau. Et là, TF1 rentre dans la boucle, et demande si c'est possible de diffuser les flux satellites sur le réseau, pour n'avoir qu'une parabole pour tout le campus et pas 1500 paraboles et 1500 décodeurs. Et d'utiliser les ordinateurs pour décoder en software...
+
+> Aujourd'hui, ça semble évident, mais à l'époque des 486DX et Pentium 90, c'était chaud. Mais les élèves voulaient leur réseau, donc ils disent "Go". C'est le début du projet "Network 2000". En 1996/1997, la démo marche bien, et le nouveau réseau est top.
+
+> Fin 1998, un autre groupe d'étudiant reprend le projet pour le sortir de Centrale: c'est le projet "Video sur un réseau local", aka "VideoLAN".
+
+> La suite pour un autre post."
+
 
 
 ## links
 * http://videolan.org
-* [https://fr.wikipedia.org/wiki/Socle_interminist%C3%A9riel_de_logiciels_libres]("Socle interministériel de Logiciels Libres", on the french Wikipedia)
+* ["Socle interministériel de Logiciels Libres", on the french Wikipedia](https://fr.wikipedia.org/wiki/Socle_interminist%C3%A9riel_de_logiciels_libres)
 * ["VLC Media Player Latest 2022 SOFTWARE" on
     ebay.com](https://web.archive.org/web/20220110113830/https://www.ebay.com/itm/275082518345)
 * [A VLC promotion movie made by Adam Vian](https://images.videolan.org/images/vlc-player.mp4)
@@ -41,15 +52,16 @@ by the french government !
 
 
 ## visuals
-* 0.
-* 1.
-* 2.
-* 3.
-* 4.
-* 5.
-* 6.
-* 7.
-* 8.
-* 9.
+* 0. logo
+* 1. SILL
+* 2. Jb Kempf
+* 3. on ebay
+* 4. old school logo
+* 5. olg bg
+* 6. logo popcorn
+* 7. logo cristmas
+* 8. bg random
+* 9. VLC Skin 
+
 [![Alt text](https://img.youtube.com/vi/vVXGLPl3n7E/0.jpg)](https://www.youtube.com/watch?v=vVXGLPl3n7E)
 *VLC promotion movie by Adam Vian*
