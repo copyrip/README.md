@@ -35,7 +35,7 @@ This body of work consists in severals shows[0] about various micro media histor
 * [ ] 22-01-04 → F-Droid
 * [ ] 22-01-05 → FIGlet
 * [ ] 22-01-06 → youtube-dl
-* [ ] 22-01-07 → vlc
+* [x] 22-01-07 → vlc
 * [ ] 22-01-08 → github
 * [ ] 22-01-11 → aaron swarz (rss, markdown)
 * [ ] ...
@@ -47,10 +47,10 @@ This body of work consists in severals shows[0] about various micro media histor
 * [ ] french version
 * [ ] /vlc/
 * * [x] create folder
-* * [ ] write vlc atl.description
-* * [ ] select vlc images
+* * [x] write vlc atl.description
+* * [x] select vlc images
 * * [ ] curate vlc links
-* * [ ] ...
+* * [ ] publish vlc.txt on 2020.copyright.rip
 * [ ] /freeparty.free.fr/
 * * [ ] create folder
 * * [ ] re-transcript alpha version
