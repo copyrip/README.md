@@ -13,5 +13,5 @@ This subsection presents software, services and tools used in the *production* o
 ## advent calendar
 
 | ☾ | ♂ |  ☿ |  ♃ | ♀ | ♄ | ☼ |
----------------------------------
+|-------------------------------|
 | . | . | . | . | . | . | 1 | 2 |  
