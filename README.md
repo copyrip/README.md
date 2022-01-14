@@ -43,7 +43,7 @@ This body of work consists in severals shows[0] about various micro media histor
 * [ ] ...
 * [ ] 22-01-25 → mediawiki (magnus mankse day 🎉)
 
-## 🧠 things to remember
+## 🧠 things to remember to do
 * [ ] french version
 * [ ] /vlc/
 * * [x] create folder
