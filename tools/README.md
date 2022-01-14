@@ -9,3 +9,9 @@ This subsection presents software, services and tools used in the *production* o
 * * [ ] other font, more legible ?
 * * [ ] analytics
 * * [ ] random quotes for clippy 📎
+
+## advent calendar
+
+| ☾ | ♂ |  ☿ |  ♃ | ♀ | ♄ | ☼ |
+---------------------------------
+| . | . | . | . | . | . | 1 | 2 |  
