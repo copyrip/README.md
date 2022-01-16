@@ -16,7 +16,7 @@ This body of work consists in severals shows[0] about various micro media histor
 * /shows/ - the core of my thesis
 * /shows/freeparty.free.fr/ [🇪🇺european ravers flash era on xavier niel's free.fr isp 🔊🧯]
 * /shows/pankkake-suicide/ [🇫🇷french dev suicide funds alt-right capitol stormer 🤔🤮]
-* /tools/
+* [/tools/](https://github.com/copyrip/README.md/tree/master/tools/)
 * [/tools/vlc/](https://github.com/copyrip/README.md/tree/master/tools/vlc) [🚧the almighty french 🐓 versatile media player]
 * [/tools/git-github](https://github.com/copyrip/README.md/tree/master/tools/git-github) [seems pretty obvious...🪟]
 
