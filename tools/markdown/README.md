@@ -6,12 +6,13 @@ Markdown is a minimal formatting markup language. Ever stumbled accross a file e
 It is a shame we can no longer use this kind of tools here (see the FIGlet post for instance). But there is online place where markdown is still common such as:
 * Github
 * Reddit
-* and of course our belove Wikipedia.
+* and of course our beloved Wikipedia !
+* (many more of course)
 
 
 These kind of tools (or *standards* in this case) help us rethink design, and overall information production, distribution and consomation.
 
-Apparently the co?creator of Markdown, Josh Gruber, states that Aaron was rather his muse at the time than the actual
+> Apparently the co?creator of Markdown, Josh Gruber, states that Aaron was rather his muse at the time than the actual co-whatever. This doesn't change much though. 
 
 
 
