@@ -10,11 +10,11 @@ It is a shame we can no longer use this kind of tools here (see the FIGlet post 
 * and of course our beloved Wikipedia ! 🌐
 * (many more of course)
 
-> Apparently the co?creator of Markdown, Josh Gruber, states that Aaron was rather his muse at the time than the actual co-whatever. This doesn't change much though. 
+> Apparently the co?creator of Markdown, Josh Gruber, states that Aaron was rather his muse at the time than the actual co-whatever. This doesn't change much though. 🥱
 
-On a side note, there are plenty of markdown flavor: wiki, github, multi markdown and more... There are/were standardization efforts, like CommonMark, among where we can find Jeff Atwood, one of my computer idols.
+On a side note, there are plenty of markdown flavor 🍦: wiki, github, multi markdown and more... There are/were standardization efforts, like CommonMark, among which team we can find Jeff Atwood, one of my computer idols 🙏
 
-These kind of tools (or *standards* in this case) help us rethink design, and overall information production, distribution and consumption. Using markdown is an alternative to design and coding style waves. It provides a bridge between *power users* that rely on command line interfaces and *users* bathed in a bootstrap vectorial consumerist world.
+These kind of tools (or *standards* in this case) help us rethink design, and overall information production, distribution and consumption. Using markdown is an alternative to design and coding style waves. It provides a bridge between *power users* that rely on command line interfaces and *users* bathed in a bootstrap vectorial consumerist world. ✊
 
 ## Medias
 * md logo
