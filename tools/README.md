@@ -4,8 +4,8 @@ This subsection presents software, services and tools used in the *production* o
 
 ## stuff to do sometimes
 * [ ] http://2022.copyright.rip
-* * [ ] better `<pre>` formating
-* * [ ] simpler table
+* * [x] better `<pre>` formating
+* * [x] simpler table
 * * [ ] other font, more legible ?
 * * [ ] analytics
 * * [ ] random quotes for clippy 📎
