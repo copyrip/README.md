@@ -28,13 +28,17 @@ This body of work consists in severals shows[0] about various micro media histor
 * [ ] 22-01/02-?? → Pankkake's Suicide
 * [x] 21-05-07 → fReEpArTy.free.fr
 ### streaming work group meetings
-* [ ] 22-01-?? → #1 brainstorming, curation, organisation
+* [x] 22-01-?? → #1 brainstorming, curation, organisation
 * [x] 21-12-20 → #0 presentation, greetings and such 
+
+
+## misc. notes
+
 ### tools research
-* [ ] 22-01-03 → Graph Commons
-* [ ] 22-01-04 → F-Droid
-* [ ] 22-01-05 → FIGlet
-* [ ] 22-01-06 → youtube-dl
+* [x] 22-01-03 → Graph Commons
+* [x] 22-01-04 → F-Droid
+* [x] 22-01-05 → FIGlet
+* [x] 22-01-06 → youtube-dl
 * [x] 22-01-07 → vlc
 * [ ] 22-01-08 → github
 * [ ] 22-01-11 → aaron swarz (rss, markdown)
@@ -45,12 +49,12 @@ This body of work consists in severals shows[0] about various micro media histor
 
 ## 🧠 things to remember to do
 * [ ] french version
-* [ ] /vlc/
+* [x] /vlc/
 * * [x] create folder
 * * [x] write vlc atl.description
 * * [x] select vlc images
-* * [ ] curate vlc links
-* * [ ] publish vlc.txt on 2020.copyright.rip
+* * [x] curate vlc links
+* * [x] publish vlc.txt on 2020.copyright.rip
 * [ ] /freeparty.free.fr/
 * * [ ] create folder
 * * [ ] re-transcript alpha version
