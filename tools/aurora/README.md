@@ -10,6 +10,8 @@ It also gives information about potential trackers found on the app code,  a bla
 
 We can read on their website "Unlike Google's Play Store, Aurora Store doesn't track your downloads or the apps you use. We respect your privacy. Aurora Store is also unaffected by Google marking your device as uncertified or lacking of necessary Google apps. Play Protect is not present, as this is a Play Store only feature." 🛡️
 
+IMO the best option to install it is by using F-Droid, information about this *app* is avalaible is a previous post (+via the link in bio ofc 🔗)
+
 Not much more to say about this software.
 Reclaim your tools, you bought your phone, you're supposed to OWN IT ✊! Install wathever u want, break it, unistall what you don't need and configure it to your pleasing 💅 I don't want to live in a homogeneous hell where even computers are being IKEAZED 🪑 💙
 

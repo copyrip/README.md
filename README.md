@@ -31,6 +31,24 @@ This body of work consists in severals shows[0] about various micro media histor
 * [x] 22-01-?? → #1 brainstorming, curation, organisation
 * [x] 21-12-20 → #0 presentation, greetings and such 
 
+```
+Everyday after waking up,
+I light up my Lenovo ThinkPad T410,
+    it is rocking an Intel i5 CPU
+arch linux boots up
+    it uses systemd, grub?, and sooo much other deamons
+a custom script prompts me on "how am i feeling today"
+firefox launches on the i3 space n°2
+signal lanches on the i3 space n°9
+
+when i'm looking for something
+    i press cmd+2 → ctrl+t
+    "my question", and usually !g
+        duckduckgo asks google "my question"
+        as the results appear I press f
+        vim vixen appends a combination of letter (from A to ZZ) on every link it finds
+        i press the corresponding letters to open the page that might contain my an answer to "my question"
+```
 
 ## misc. notes
 
