@@ -16,8 +16,8 @@ This subsection presents software, services and tools used in the *production* o
 | - | - | - | - | - | - | - |
 | . | . | . | . | . | 🙊 | 🙉 |  
 |[Graph Commons](http://2022.copyright.rip/#graphcommons)|[F-droid](http://2022.copyright.rip/#f-droid)|[FIGlet](http://2022.copyright.rip/#figlet)| [youtube-dl](http://2022.copyright.rip/#youtube-dl)|[VLC](http://2022.copyright.rip/#vlc) | 🙈 | 🙊 |  
-| [Arch Linux](http://2022.copyright.rip/#arch) | [MarkDown](http://2022.copyright.rip/#markdown) |  [EtherPad](http://2022.copyright.rip/#etherpad) | [Aurora](http://2022.copyright.rip/#aurora) | [Duck Duck Go](http://2022.copyright.rip/#duckduckgo) | Wikipedia | 16 |  
-| 17 | 18 | 19 | 29 | 21 | 22 | 23 |  
+| [Arch Linux](http://2022.copyright.rip/#arch) | [MarkDown](http://2022.copyright.rip/#markdown) |  [EtherPad](http://2022.copyright.rip/#etherpad) | [Aurora](http://2022.copyright.rip/#aurora) | [Duck Duck Go](http://2022.copyright.rip/#duckduckgo) | 15 | 16 |  
+| Good Time | OBS | 19 | 29 | 21 | 22 | 23 |  
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |  
 | 31 | . | . | . | . | . | . |  
 
