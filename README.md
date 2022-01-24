@@ -19,6 +19,14 @@ This body of work consists in severals shows[0] about various micro media histor
 * [/tools/](https://github.com/copyrip/README.md/tree/master/tools/)
 * [/tools/vlc/](https://github.com/copyrip/README.md/tree/master/tools/vlc) [🚧the almighty french 🐓 versatile media player]
 * [/tools/git-github](https://github.com/copyrip/README.md/tree/master/tools/git-github) [seems pretty obvious...🪟]
+* [/tools/graphcommons/](https://github.com/copyrip/README.md/tree/master/tools/graphcommons)
+* [/tools/markdown/](https://github.com/copyrip/README.md/tree/master/tools/markdown)
+* [/tools/vim/](https://github.com/copyrip/README.md/tree/master/tools/vim)
+* [/tools/arch/](https://github.com/copyrip/README.md/tree/master/tools/arch-linux)
+* [/tools/figlet/](https://github.com/copyrip/README.md/tree/master/tools/figlet)
+* [/tools/f-droid/](https://github.com/copyrip/README.md/tree/master/tools/f-droid)
+* [/tools/youtube-dl/](https://github.com/copyrip/README.md/tree/master/tools/youtube-dl)
+* [/tools/duckduckgo/](https://github.com/copyrip/README.md/tree/master/tools/duckduckgo)
 
 
 ## 🗓️ calendar
@@ -28,8 +36,12 @@ This body of work consists in severals shows[0] about various micro media histor
 * [ ] 22-01/02-?? → Pankkake's Suicide
 * [x] 21-05-07 → fReEpArTy.free.fr
 ### streaming work group meetings
-* [x] 22-01-?? → #1 brainstorming, curation, organisation
-* [x] 21-12-20 → #0 presentation, greetings and such 
+* [x] 22-01-?? → brainstorming, curation, organisation
+* [x] 21-12-21 → presentation, greetings and such 
+* [x] 14-01-22 → ... covid-19
+* [x] 21-01-22 → maxim shows us analog gear
+* [x] 24-12-22 → same but in audi
+* [x] 27-12-22 → more focus on the show 
 
 ```
 Everyday after waking up,
@@ -59,10 +71,8 @@ when i'm looking for something
 * [x] 22-01-06 → youtube-dl
 * [x] 22-01-07 → vlc
 * [ ] 22-01-08 → github
-* [ ] 22-01-11 → aaron swarz (rss, markdown)
-* [ ] ...
+* [x] 22-01-11 → aaron swarz (rss, markdown)
 * [ ] 22-01-15 → wikipedia day 🎉
-* [ ] ...
 * [ ] 22-01-25 → mediawiki (magnus mankse day 🎉)
 
 ## 🧠 things to remember to do
