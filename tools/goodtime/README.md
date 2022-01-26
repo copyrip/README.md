@@ -1,4 +1,4 @@
-Good Time is a simple pomodoro timer.
+Good Time is a simple pomodoro timer 🍅
 I guess that you might be familiar with this technique, as you might be a cogwheel of this big capitalist machine that taunts us constantly to increase our so called "productivity"... (if ur not, it justs consists in setting timers in order to focus on a specific task, then take a small break, re-focus on the task, repeating that until you take a longer break)
 
 ## What IS productivity anyway ?
