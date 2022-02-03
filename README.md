@@ -11,6 +11,8 @@ Repository for my master thesis @[erg](https://erg.be) due in september 2022.
 
 This body of work consists in severals shows[0] about various micro media history events. A subjective documentation of the tools needed to produce the lectures is written alongside their content. And a foreword from the author.
 
+The tools are presented in a subjective humorous manner, as not to duplicate their full documentation, as it is usually readily available.
+
 ## 💥table of contents
 
 * /shows/ - the core of my thesis
