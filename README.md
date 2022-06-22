@@ -33,7 +33,7 @@ The tools are presented in a subjective humorous manner, as not to duplicate the
 
 ## 🗓️ calendar
 ### deadline
-* [ ] 22-07-?? → ⚠️ school diploma
+* [ ] 22-09-?? → ⚠️ school diploma
 ### shows
 * [ ] 22-01/02-?? → Pankkake's Suicide
 * [x] 21-05-07 → fReEpArTy.free.fr
