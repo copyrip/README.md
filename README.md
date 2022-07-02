@@ -76,9 +76,14 @@ when i'm looking for something
 * [x] 22-01-11 → aaron swarz (rss, markdown)
 * [ ] 22-01-15 → wikipedia day 🎉
 * [ ] 22-01-25 → mediawiki (magnus mankse day 🎉)
+* zotero
+* firefoxfox
+* ff addons
+* blender
 
 ## 🧠 things to remember to do
 * [ ] french version
+* [ ] 
 * [x] /vlc/
 * * [x] create folder
 * * [x] write vlc atl.description
