@@ -103,3 +103,13 @@ when i'm looking for something
 
 ## notes
 [0] The 'shows' are hybrid performances both similar as *in-person* lectures and broadcasted online as a streaming video.
+
+## to-do-final 
+* [ ] idées pour autres emissions + courts descriptifs
+* [ ] selectionner bons screen shots
+* [ ] rajout 1nD3x + erg tv +++
+* [ ] bibliographie constitutive
+* [ ] git
+* [ ] vim
+* [ ] thinkpad
+* [ ] ...

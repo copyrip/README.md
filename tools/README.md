@@ -9,6 +9,7 @@ This subsection presents software, services and tools used in the *production* o
 * * [ ] other font, more legible ?
 * * [ ] analytics
 * * [ ] random quotes for clippy 📎
+* [ ] git
 
 ## ~~advent~~ after calendar
 
@@ -18,8 +19,8 @@ This subsection presents software, services and tools used in the *production* o
 |[Graph Commons](http://2022.copyright.rip/#graphcommons)|[F-droid](http://2022.copyright.rip/#f-droid)|[FIGlet](http://2022.copyright.rip/#figlet)| [youtube-dl](http://2022.copyright.rip/#youtube-dl)|[VLC](http://2022.copyright.rip/#vlc) | 🙈 | 🙊 |  
 | [Arch Linux](http://2022.copyright.rip/#arch) | [MarkDown](http://2022.copyright.rip/#markdown) |  [EtherPad](http://2022.copyright.rip/#etherpad) | [Aurora](http://2022.copyright.rip/#aurora) | [Duck Duck Go](http://2022.copyright.rip/#duckduckgo) | 15 | 16 |  
 | [Good Time](http://2022.copyright.rip) | OBS | Firefox | Wayback Machine | Vim | 22 | 23 |  
-| Git | Mastodon | Zotero | Blender | 28 | 29 | 30 |  
-| 31 | . | . | . | . | . | . |  
+| Git | Mastodon | Zotero | Blender | ThinkPad | 29 | 30 |  
+| Firefox Addons | . | . | . | . | . | . |  
 
 ## method
 > How do I conduct my *reasearch* on these softwares ?
