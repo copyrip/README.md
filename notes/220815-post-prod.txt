@@ -1,0 +1,15 @@
+Contrairement à la production vidéo "classique", la diffusion en direct (streaming) implique un certain nombre de contraintes et de spécificités
+
+le chat
+L'un des avantages indéniables du streaming est la possibilité d'intéragir avec l'audimat.
+Permettant à la fois de rendre une diffusion plus dynamique, mais nécessitant une attention tout particulière, le "chat" est une composante spécifique au streaming (que l'on ne retrouve pas dans d'autres modes de médiation)
+
+la post production
+Impossible de "couper au montage". Ainsi, chaque émission doit être scrupuleusement préparée, repetée, filée.
+Semblable à une .... performative, diffuser en direct nécessite une grande attention. 
+
+l'équipe
+Bien qu'il soit possible d'organiser une diffusion seul depuis sa chambre, il est souvent plus aisé de travailler en équipe. Régisseur, electro, ingénieur son, M.C (master of ceremony), référent chat, ... sont d'autant de rôles crucial pour une bonne émission.
+
+les outils
+L'outili principal autour duquel s'articule la pratique du streaming est OBS (open broadcast system). Contrairement aux logiciels de montage vidéos linéaires (Movie Maker, Final Cut, After Effects, ...) les coupures doivent êtres réalisées en direct, au même moment que la prise de vue

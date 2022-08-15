@@ -1,0 +1,12 @@
+Questionner notre rapport à la machine.
+A travers diverses incursions dans des sous culture, et leur implication numérique.
+
+"README.md" est un document dynamique publié en ligne car prompt à être souvent modifié.
+
+A travers la contrainte de la diffusion en direct (sans post-production donc), nous avons cherché à produire des emissions expérimentales qui parlent de notre rapport à la machine, et plus précisement à comment internet à modifié nos comportements et nos relations.
+
+Norbert Wiener, dans son travail sur la Cybernetique cherche à développer des modèles de compréhension de la communication "humain.e - humain.e", "humain.e - machine" et "machine - machine". Via l'exploration de sujets d'inetets personnels (la culture de la free party en france et la "communauté" FLOSS*), et à l'aide de techniques diverses de recherche → quoi ?
+
+Initialement prévu comme un corpus rassemblant un ensemble d'emissions en direct, README.md ne contient actuellement trois emissions. Deux qui permettent de dresser le portait politique de deux pensées diametralement opposées, et la dernière qui tends à offrir la question de la technique à celle du recit.
+
+*free libre and open source software.
