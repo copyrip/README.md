@@ -14,4 +14,13 @@ A travers elle, on peut découvrir une culture scientifique bien précise et des
 
 ## NFT, Metavers, Web3 et toutes ces conneries
 
-## 
+## Speedrun et Guiness Book des Records, performer sans incentive 
+
+
+
+www.freeparty.free.fr - Zones d'autonomie temporaire, Xavier Niel et Adobe Flash Player
+www.laurentbachelier.name/notes.txt - Pankkake's Suicide Note
+Bell Labs - Les NTIC avant la Sillicon Valley
+Speedruns et records du monde - Performer sans incentive
+Les Horribles Cernettes
+...
